@@ -1,0 +1,690 @@
+2023-08-09T13:27:29.396 WARN (pid:32292) - Could not find lombok.jar path.
+2023-08-09T13:27:29.417 INFO (pid:32292) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T13:27:29.656 INFO (pid:32292) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T13:27:38.850 INFO (pid:32292) - [Error - 13:27:38.850] Sending request textDocument/inlayHint failed.
+2023-08-09T13:27:38.850 INFO (pid:32292) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T13:27:38.882 INFO (pid:32292) - [Error - 13:27:38.882] Sending request textDocument/inlayHint failed.
+2023-08-09T13:27:38.882 INFO (pid:32292) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T13:27:38.888 INFO (pid:32292) - [Error - 13:27:38.888] Sending request textDocument/inlayHint failed.
+2023-08-09T13:27:38.888 INFO (pid:32292) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T13:27:38.893 INFO (pid:32292) - [Error - 13:27:38.893] Sending request textDocument/inlayHint failed.
+2023-08-09T13:27:38.894 INFO (pid:32292) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T13:27:38.894 INFO (pid:32292) - [Error - 13:27:38.894] Sending request textDocument/inlayHint failed.
+2023-08-09T13:27:38.894 INFO (pid:32292) -   Message: The request (id: 5, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T13:27:38.894 INFO (pid:32292) - [Error - 13:27:38.894] Sending request textDocument/inlayHint failed.
+2023-08-09T13:27:38.894 INFO (pid:32292) -   Message: The request (id: 6, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T13:27:38.894 INFO (pid:32292) - [Error - 13:27:38.894] Sending request textDocument/inlayHint failed.
+2023-08-09T13:27:38.894 INFO (pid:32292) -   Message: The request (id: 7, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T13:27:38.894 INFO (pid:32292) - [Error - 13:27:38.894] Sending request textDocument/inlayHint failed.
+2023-08-09T13:27:38.894 INFO (pid:32292) -   Message: The request (id: 8, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T13:27:48.498 INFO (pid:32292) - compile.nullAnalysis.mode set to automatic
+2023-08-09T13:39:30.074 WARN (pid:34126) - Could not find lombok.jar path.
+2023-08-09T13:39:30.096 INFO (pid:34126) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T13:39:30.201 INFO (pid:34126) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T13:39:35.684 INFO (pid:34126) - [Error - 13:39:35.684] Sending request textDocument/inlayHint failed.
+2023-08-09T13:39:35.684 INFO (pid:34126) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T13:41:30.048 WARN (pid:34454) - Could not find lombok.jar path.
+2023-08-09T13:41:30.071 INFO (pid:34454) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T13:41:30.185 INFO (pid:34454) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T13:41:35.638 INFO (pid:34454) - [Error - 13:41:35.637] Sending request textDocument/inlayHint failed.
+2023-08-09T13:41:35.638 INFO (pid:34454) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T13:41:35.649 INFO (pid:34454) - [Error - 13:41:35.649] Sending request textDocument/inlayHint failed.
+2023-08-09T13:41:35.649 INFO (pid:34454) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T13:41:35.650 INFO (pid:34454) - [Error - 13:41:35.650] Sending request textDocument/inlayHint failed.
+2023-08-09T13:41:35.650 INFO (pid:34454) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T13:41:56.389 WARN (pid:34541) - Could not find lombok.jar path.
+2023-08-09T13:41:56.409 INFO (pid:34541) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T13:41:56.514 INFO (pid:34541) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T14:16:26.948 WARN (pid:36698) - Could not find lombok.jar path.
+2023-08-09T14:16:26.966 INFO (pid:36698) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:16:27.071 INFO (pid:36698) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T14:16:32.621 INFO (pid:36698) - [Error - 14:16:32.621] Sending request textDocument/inlayHint failed.
+2023-08-09T14:16:32.622 INFO (pid:36698) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:16:32.636 INFO (pid:36698) - [Error - 14:16:32.636] Sending request textDocument/inlayHint failed.
+2023-08-09T14:16:32.636 INFO (pid:36698) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:16:36.666 INFO (pid:36698) - [Error - 14:16:36.666] Sending request textDocument/documentHighlight failed.
+2023-08-09T14:16:36.666 INFO (pid:36698) -   Message: The request (id: 9, method: 'textDocument/documentHighlight') has been cancelled
+  Code: -32800 
+2023-08-09T14:17:00.754 WARN (pid:36780) - Could not find lombok.jar path.
+2023-08-09T14:17:00.772 INFO (pid:36780) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:17:00.878 INFO (pid:36780) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T14:17:06.306 INFO (pid:36780) - [Error - 14:17:06.306] Sending request textDocument/inlayHint failed.
+2023-08-09T14:17:06.307 INFO (pid:36780) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:20:07.952 INFO (pid:36780) - [Error - 14:20:07.952] Sending request textDocument/hover failed.
+2023-08-09T14:20:07.952 INFO (pid:36780) -   Message: The request (id: 26, method: 'textDocument/hover') has been cancelled
+  Code: -32800 
+2023-08-09T14:28:20.652 WARN (pid:37351) - Could not find lombok.jar path.
+2023-08-09T14:28:20.671 INFO (pid:37351) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:28:20.773 INFO (pid:37351) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T14:28:26.379 INFO (pid:37351) - [Error - 14:28:26.379] Sending request textDocument/inlayHint failed.
+2023-08-09T14:28:26.379 INFO (pid:37351) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:28:26.396 INFO (pid:37351) - [Error - 14:28:26.396] Sending request textDocument/inlayHint failed.
+2023-08-09T14:28:26.396 INFO (pid:37351) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:28:26.398 INFO (pid:37351) - [Error - 14:28:26.398] Sending request textDocument/inlayHint failed.
+2023-08-09T14:28:26.398 INFO (pid:37351) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:28:26.834 INFO (pid:37351) - [Error - 14:28:26.834] Sending request textDocument/inlayHint failed.
+2023-08-09T14:28:26.834 INFO (pid:37351) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:30:24.603 WARN (pid:37571) - Could not find lombok.jar path.
+2023-08-09T14:30:24.622 INFO (pid:37571) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:30:24.730 INFO (pid:37571) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T14:30:30.194 INFO (pid:37571) - [Error - 14:30:30.194] Sending request textDocument/inlayHint failed.
+2023-08-09T14:30:30.194 INFO (pid:37571) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:30:30.194 INFO (pid:37571) - [Error - 14:30:30.194] Sending request textDocument/inlayHint failed.
+2023-08-09T14:30:30.194 INFO (pid:37571) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:30:30.195 INFO (pid:37571) - [Error - 14:30:30.195] Sending request textDocument/inlayHint failed.
+2023-08-09T14:30:30.195 INFO (pid:37571) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:30:30.198 INFO (pid:37571) - [Error - 14:30:30.198] Sending request textDocument/inlayHint failed.
+2023-08-09T14:30:30.198 INFO (pid:37571) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:30:30.198 INFO (pid:37571) - [Error - 14:30:30.198] Sending request textDocument/inlayHint failed.
+2023-08-09T14:30:30.198 INFO (pid:37571) -   Message: The request (id: 5, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:31:50.870 INFO (pid:37571) - [Error - 14:31:50.870] Aug 9, 2023, 2:31:50 PM BadLocationException
+null
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.ListLineTracker.getLineOffset(ListLineTracker.java:206)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineOffset(AbstractLineTracker.java:252)
+	at org.eclipse.jface.text.AbstractDocument.getLineOffset(AbstractDocument.java:877)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOffset(SynchronizableDocument.java:323)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:85)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:69)
+	at org.eclipse.jdt.ls.core.internal.handlers.InlayHintsHandler.inlayHint(InlayHintsHandler.java:78)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$54(JDTLanguageServer.java:1099)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+2023-08-09T14:32:29.488 WARN (pid:37706) - Could not find lombok.jar path.
+2023-08-09T14:32:29.506 INFO (pid:37706) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:32:29.610 INFO (pid:37706) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T14:32:35.305 INFO (pid:37706) - [Error - 14:32:35.305] Sending request textDocument/inlayHint failed.
+2023-08-09T14:32:35.305 INFO (pid:37706) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:32:35.307 INFO (pid:37706) - [Error - 14:32:35.307] Sending request textDocument/inlayHint failed.
+2023-08-09T14:32:35.307 INFO (pid:37706) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:32:35.308 INFO (pid:37706) - [Error - 14:32:35.308] Sending request textDocument/inlayHint failed.
+2023-08-09T14:32:35.308 INFO (pid:37706) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:32:35.309 INFO (pid:37706) - [Error - 14:32:35.309] Sending request textDocument/inlayHint failed.
+2023-08-09T14:32:35.309 INFO (pid:37706) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:32:35.319 INFO (pid:37706) - [Error - 14:32:35.319] Sending request textDocument/inlayHint failed.
+2023-08-09T14:32:35.319 INFO (pid:37706) -   Message: The request (id: 5, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:32:41.535 INFO (pid:37706) - [Error - 14:32:41.535] Aug 9, 2023, 2:32:41 PM BadLocationException
+null
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.ListLineTracker.getLineOffset(ListLineTracker.java:206)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineOffset(AbstractLineTracker.java:252)
+	at org.eclipse.jface.text.AbstractDocument.getLineOffset(AbstractDocument.java:877)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOffset(SynchronizableDocument.java:323)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:85)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:69)
+	at org.eclipse.jdt.ls.core.internal.handlers.InlayHintsHandler.inlayHint(InlayHintsHandler.java:78)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$54(JDTLanguageServer.java:1099)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+2023-08-09T14:34:10.396 WARN (pid:37816) - Could not find lombok.jar path.
+2023-08-09T14:34:10.416 INFO (pid:37816) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:34:10.519 INFO (pid:37816) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T14:34:16.069 INFO (pid:37816) - [Error - 14:34:16.068] Sending request textDocument/inlayHint failed.
+2023-08-09T14:34:16.069 INFO (pid:37816) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:34:16.070 INFO (pid:37816) - [Error - 14:34:16.070] Sending request textDocument/inlayHint failed.
+2023-08-09T14:34:16.070 INFO (pid:37816) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:34:16.070 INFO (pid:37816) - [Error - 14:34:16.070] Sending request textDocument/inlayHint failed.
+2023-08-09T14:34:16.070 INFO (pid:37816) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:34:16.070 INFO (pid:37816) - [Error - 14:34:16.070] Sending request textDocument/inlayHint failed.
+2023-08-09T14:34:16.070 INFO (pid:37816) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:34:16.070 INFO (pid:37816) - [Error - 14:34:16.070] Sending request textDocument/inlayHint failed.
+2023-08-09T14:34:16.070 INFO (pid:37816) -   Message: The request (id: 5, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:34:16.070 INFO (pid:37816) - [Error - 14:34:16.070] Sending request textDocument/inlayHint failed.
+2023-08-09T14:34:16.070 INFO (pid:37816) -   Message: The request (id: 6, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:34:16.077 INFO (pid:37816) - [Error - 14:34:16.077] Sending request textDocument/inlayHint failed.
+2023-08-09T14:34:16.077 INFO (pid:37816) -   Message: The request (id: 7, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:34:16.078 INFO (pid:37816) - [Error - 14:34:16.078] Sending request textDocument/inlayHint failed.
+2023-08-09T14:34:16.078 INFO (pid:37816) -   Message: The request (id: 8, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:34:16.079 INFO (pid:37816) - [Error - 14:34:16.079] Sending request textDocument/inlayHint failed.
+2023-08-09T14:34:16.079 INFO (pid:37816) -   Message: The request (id: 9, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:34:16.079 INFO (pid:37816) - [Error - 14:34:16.079] Sending request textDocument/inlayHint failed.
+2023-08-09T14:34:16.079 INFO (pid:37816) -   Message: The request (id: 10, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:34:23.094 INFO (pid:37816) - [Error - 14:34:23.094] Sending request textDocument/documentHighlight failed.
+2023-08-09T14:34:23.094 INFO (pid:37816) -   Message: The request (id: 20, method: 'textDocument/documentHighlight') has been cancelled
+  Code: -32800 
+2023-08-09T14:34:23.258 INFO (pid:37816) - [Error - 14:34:23.258] Sending request textDocument/inlayHint failed.
+2023-08-09T14:34:23.258 INFO (pid:37816) -   Message: The request (id: 21, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:34:23.414 INFO (pid:37816) - [Error - 14:34:23.414] Sending request textDocument/inlayHint failed.
+2023-08-09T14:34:23.414 INFO (pid:37816) -   Message: The request (id: 22, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:36:42.378 WARN (pid:37948) - Could not find lombok.jar path.
+2023-08-09T14:36:42.396 INFO (pid:37948) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:36:42.504 INFO (pid:37948) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T14:36:46.632 INFO (pid:37948) - [Error - 14:36:46.632] Sending request textDocument/inlayHint failed.
+2023-08-09T14:36:46.632 INFO (pid:37948) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:36:46.845 INFO (pid:37948) - [Error - 14:36:46.845] Sending request textDocument/inlayHint failed.
+2023-08-09T14:36:46.845 INFO (pid:37948) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:36:47.036 INFO (pid:37948) - [Error - 14:36:47.036] Sending request textDocument/inlayHint failed.
+2023-08-09T14:36:47.036 INFO (pid:37948) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:36:47.317 INFO (pid:37948) - [Error - 14:36:47.317] Sending request textDocument/inlayHint failed.
+2023-08-09T14:36:47.317 INFO (pid:37948) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:38:54.613 WARN (pid:38116) - Could not find lombok.jar path.
+2023-08-09T14:38:54.631 INFO (pid:38116) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:38:54.736 INFO (pid:38116) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T14:39:00.221 INFO (pid:38116) - [Error - 14:39:00.221] Sending request textDocument/inlayHint failed.
+2023-08-09T14:39:00.222 INFO (pid:38116) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:39:00.222 INFO (pid:38116) - [Error - 14:39:00.222] Sending request textDocument/inlayHint failed.
+2023-08-09T14:39:00.222 INFO (pid:38116) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:39:00.222 INFO (pid:38116) - [Error - 14:39:00.222] Sending request textDocument/inlayHint failed.
+2023-08-09T14:39:00.222 INFO (pid:38116) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:39:00.223 INFO (pid:38116) - [Error - 14:39:00.223] Sending request textDocument/inlayHint failed.
+2023-08-09T14:39:00.223 INFO (pid:38116) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:40:11.639 WARN (pid:38231) - Could not find lombok.jar path.
+2023-08-09T14:40:11.656 INFO (pid:38231) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:40:11.761 INFO (pid:38231) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T14:40:17.101 INFO (pid:38231) - [Error - 14:40:17.101] Sending request textDocument/inlayHint failed.
+2023-08-09T14:40:17.102 INFO (pid:38231) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:40:17.106 INFO (pid:38231) - [Error - 14:40:17.106] Sending request textDocument/inlayHint failed.
+2023-08-09T14:40:17.106 INFO (pid:38231) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:40:39.309 WARN (pid:38310) - Could not find lombok.jar path.
+2023-08-09T14:40:39.327 INFO (pid:38310) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:40:39.436 INFO (pid:38310) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T14:40:45.090 INFO (pid:38310) - [Error - 14:40:45.090] Sending request textDocument/inlayHint failed.
+2023-08-09T14:40:45.090 INFO (pid:38310) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:40:45.091 INFO (pid:38310) - [Error - 14:40:45.091] Sending request textDocument/inlayHint failed.
+2023-08-09T14:40:45.091 INFO (pid:38310) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:40:45.091 INFO (pid:38310) - [Error - 14:40:45.091] Sending request textDocument/inlayHint failed.
+2023-08-09T14:40:45.091 INFO (pid:38310) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:40:45.097 INFO (pid:38310) - [Error - 14:40:45.097] Sending request textDocument/inlayHint failed.
+2023-08-09T14:40:45.097 INFO (pid:38310) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:40:45.097 INFO (pid:38310) - [Error - 14:40:45.097] Sending request textDocument/inlayHint failed.
+2023-08-09T14:40:45.097 INFO (pid:38310) -   Message: The request (id: 5, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:40:45.097 INFO (pid:38310) - [Error - 14:40:45.097] Sending request textDocument/inlayHint failed.
+2023-08-09T14:40:45.097 INFO (pid:38310) -   Message: The request (id: 6, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:40:45.098 INFO (pid:38310) - [Error - 14:40:45.098] Sending request textDocument/inlayHint failed.
+2023-08-09T14:40:45.098 INFO (pid:38310) -   Message: The request (id: 7, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:40:45.098 INFO (pid:38310) - [Error - 14:40:45.098] Sending request textDocument/inlayHint failed.
+2023-08-09T14:40:45.098 INFO (pid:38310) -   Message: The request (id: 8, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:41:16.519 INFO (pid:38310) - [Error - 14:41:16.518] Sending request textDocument/willSaveWaitUntil failed.
+2023-08-09T14:41:16.519 INFO (pid:38310) -   Message: Internal error.
+  Code: -32603 
+java.util.concurrent.CompletionException: java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.core.ICompilationUnit.getJavaProject()" because the return value of "org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(String)" is null
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:649)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.core.ICompilationUnit.getJavaProject()" because the return value of "org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(String)" is null
+	at org.eclipse.jdt.ls.core.internal.cleanup.CleanUpRegistry.getEditsForAllActiveCleanUps(CleanUpRegistry.java:75)
+	at org.eclipse.jdt.ls.core.internal.handlers.SaveActionHandler.willSaveWaitUntil(SaveActionHandler.java:56)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$24(JDTLanguageServer.java:851)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	... 6 more
+
+2023-08-09T14:41:16.519 INFO (pid:38310) - [Error - 14:41:16.519] Request textDocument/willSaveWaitUntil failed.
+2023-08-09T14:41:16.519 INFO (pid:38310) -   Message: Internal error.
+  Code: -32603 
+java.util.concurrent.CompletionException: java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.core.ICompilationUnit.getJavaProject()" because the return value of "org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(String)" is null
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:649)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: java.lang.NullPointerException: Cannot invoke "org.eclipse.jdt.core.ICompilationUnit.getJavaProject()" because the return value of "org.eclipse.jdt.ls.core.internal.JDTUtils.resolveCompilationUnit(String)" is null
+	at org.eclipse.jdt.ls.core.internal.cleanup.CleanUpRegistry.getEditsForAllActiveCleanUps(CleanUpRegistry.java:75)
+	at org.eclipse.jdt.ls.core.internal.handlers.SaveActionHandler.willSaveWaitUntil(SaveActionHandler.java:56)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$24(JDTLanguageServer.java:851)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	... 6 more
+
+2023-08-09T14:41:16.530 INFO (pid:38310) - [Error - 14:41:16.530] Aug 9, 2023, 2:41:16 PM jdt://contents/spring-security-core-6.0.3.jar/org.springframework.security.authentication/AuthenticationManager.class?%3Dcinelist%2F%5C%2Fhome%5C%2Fatlas%5C%2F.m2%5C%2Frepository%5C%2Forg%5C%2Fspringframework%5C%2Fsecurity%5C%2Fspring-security-core%5C%2F6.0.3%5C%2Fspring-security-core-6.0.3.jar%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3D%2Fmaven.groupId%3D%2Forg.springframework.security%3D%2F%3D%2Fmaven.artifactId%3D%2Fspring-security-core%3D%2F%3D%2Fmaven.version%3D%2F6.0.3%3D%2F%3D%2Fmaven.scope%3D%2Fcompile%3D%2F%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3Corg.springframework.security.authentication%28AuthenticationManager.class does not resolve to a ICompilationUnit
+2023-08-09T14:41:43.298 WARN (pid:38417) - Could not find lombok.jar path.
+2023-08-09T14:41:43.315 INFO (pid:38417) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:41:43.417 INFO (pid:38417) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T14:41:48.991 INFO (pid:38417) - [Error - 14:41:48.991] Sending request textDocument/inlayHint failed.
+2023-08-09T14:41:48.992 INFO (pid:38417) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:41:49.010 INFO (pid:38417) - [Error - 14:41:49.010] Sending request textDocument/inlayHint failed.
+2023-08-09T14:41:49.010 INFO (pid:38417) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:41:49.011 INFO (pid:38417) - [Error - 14:41:49.011] Sending request textDocument/inlayHint failed.
+2023-08-09T14:41:49.011 INFO (pid:38417) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:41:49.012 INFO (pid:38417) - [Error - 14:41:49.012] Sending request textDocument/inlayHint failed.
+2023-08-09T14:41:49.012 INFO (pid:38417) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:41:49.013 INFO (pid:38417) - [Error - 14:41:49.013] Sending request textDocument/inlayHint failed.
+2023-08-09T14:41:49.013 INFO (pid:38417) -   Message: The request (id: 5, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:41:49.013 INFO (pid:38417) - [Error - 14:41:49.013] Sending request textDocument/inlayHint failed.
+2023-08-09T14:41:49.013 INFO (pid:38417) -   Message: The request (id: 6, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:41:49.014 INFO (pid:38417) - [Error - 14:41:49.014] Sending request textDocument/inlayHint failed.
+2023-08-09T14:41:49.014 INFO (pid:38417) -   Message: The request (id: 7, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:41:49.014 INFO (pid:38417) - [Error - 14:41:49.014] Sending request textDocument/inlayHint failed.
+2023-08-09T14:41:49.015 INFO (pid:38417) -   Message: The request (id: 8, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:45:57.170 WARN (pid:38610) - Could not find lombok.jar path.
+2023-08-09T14:45:57.187 INFO (pid:38610) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:45:57.291 INFO (pid:38610) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T14:46:00.687 INFO (pid:38610) - [Error - 14:46:00.687] Sending request textDocument/inlayHint failed.
+2023-08-09T14:46:00.687 INFO (pid:38610) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:46:00.689 INFO (pid:38610) - [Error - 14:46:00.689] Sending request textDocument/inlayHint failed.
+2023-08-09T14:46:00.689 INFO (pid:38610) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:46:00.690 INFO (pid:38610) - [Error - 14:46:00.690] Sending request textDocument/inlayHint failed.
+2023-08-09T14:46:00.690 INFO (pid:38610) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:46:20.883 WARN (pid:38686) - Could not find lombok.jar path.
+2023-08-09T14:46:20.901 INFO (pid:38686) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:46:21.004 INFO (pid:38686) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T14:47:47.358 INFO (pid:38686) - [Error - 14:47:47.357] Aug 9, 2023, 2:47:47 PM BadLocationException
+null
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.TreeLineTracker.fail(TreeLineTracker.java:1054)
+	at org.eclipse.jface.text.TreeLineTracker.offsetByLine(TreeLineTracker.java:335)
+	at org.eclipse.jface.text.TreeLineTracker.getLineOffset(TreeLineTracker.java:1111)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineOffset(AbstractLineTracker.java:252)
+	at org.eclipse.jface.text.AbstractDocument.getLineOffset(AbstractDocument.java:877)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOffset(SynchronizableDocument.java:323)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:85)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:69)
+	at org.eclipse.jdt.ls.core.internal.handlers.InlayHintsHandler.inlayHint(InlayHintsHandler.java:78)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$54(JDTLanguageServer.java:1099)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+2023-08-09T14:48:15.130 INFO (pid:38686) - [Error - 14:48:15.130] Aug 9, 2023, 2:48:15 PM BadLocationException
+null
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.ListLineTracker.getLineOffset(ListLineTracker.java:197)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineOffset(AbstractLineTracker.java:252)
+	at org.eclipse.jface.text.AbstractDocument.getLineOffset(AbstractDocument.java:877)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOffset(SynchronizableDocument.java:323)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:85)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:69)
+	at org.eclipse.jdt.ls.core.internal.handlers.InlayHintsHandler.inlayHint(InlayHintsHandler.java:78)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$54(JDTLanguageServer.java:1099)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+2023-08-09T14:48:17.262 INFO (pid:38686) - [Error - 14:48:17.262] Aug 9, 2023, 2:48:17 PM BadLocationException
+null
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.TreeLineTracker.fail(TreeLineTracker.java:1054)
+	at org.eclipse.jface.text.TreeLineTracker.offsetByLine(TreeLineTracker.java:335)
+	at org.eclipse.jface.text.TreeLineTracker.getLineOffset(TreeLineTracker.java:1111)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineOffset(AbstractLineTracker.java:252)
+	at org.eclipse.jface.text.AbstractDocument.getLineOffset(AbstractDocument.java:877)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOffset(SynchronizableDocument.java:323)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:85)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:69)
+	at org.eclipse.jdt.ls.core.internal.handlers.InlayHintsHandler.inlayHint(InlayHintsHandler.java:78)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$54(JDTLanguageServer.java:1099)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+2023-08-09T14:48:18.413 INFO (pid:38686) - [Error - 14:48:18.413] Aug 9, 2023, 2:48:18 PM BadLocationException
+null
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.TreeLineTracker.fail(TreeLineTracker.java:1054)
+	at org.eclipse.jface.text.TreeLineTracker.offsetByLine(TreeLineTracker.java:335)
+	at org.eclipse.jface.text.TreeLineTracker.getLineOffset(TreeLineTracker.java:1111)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineOffset(AbstractLineTracker.java:252)
+	at org.eclipse.jface.text.AbstractDocument.getLineOffset(AbstractDocument.java:877)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOffset(SynchronizableDocument.java:323)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:85)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:69)
+	at org.eclipse.jdt.ls.core.internal.handlers.InlayHintsHandler.inlayHint(InlayHintsHandler.java:78)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$54(JDTLanguageServer.java:1099)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+2023-08-09T14:48:47.461 WARN (pid:38830) - Could not find lombok.jar path.
+2023-08-09T14:48:47.481 INFO (pid:38830) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:48:47.586 INFO (pid:38830) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T14:48:53.092 INFO (pid:38830) - [Error - 14:48:53.092] Sending request textDocument/inlayHint failed.
+2023-08-09T14:48:53.092 INFO (pid:38830) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:53:29.887 WARN (pid:39674) - Could not find lombok.jar path.
+2023-08-09T14:53:29.906 INFO (pid:39674) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:53:30.013 INFO (pid:39674) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T14:53:35.742 INFO (pid:39674) - [Error - 14:53:35.742] Sending request textDocument/inlayHint failed.
+2023-08-09T14:53:35.742 INFO (pid:39674) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:53:35.743 INFO (pid:39674) - [Error - 14:53:35.743] Sending request textDocument/inlayHint failed.
+2023-08-09T14:53:35.743 INFO (pid:39674) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:53:35.744 INFO (pid:39674) - [Error - 14:53:35.744] Sending request textDocument/inlayHint failed.
+2023-08-09T14:53:35.744 INFO (pid:39674) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:53:35.745 INFO (pid:39674) - [Error - 14:53:35.745] Sending request textDocument/inlayHint failed.
+2023-08-09T14:53:35.745 INFO (pid:39674) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:53:35.746 INFO (pid:39674) - [Error - 14:53:35.746] Sending request textDocument/inlayHint failed.
+2023-08-09T14:53:35.747 INFO (pid:39674) -   Message: The request (id: 5, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:53:35.752 INFO (pid:39674) - [Error - 14:53:35.752] Sending request textDocument/inlayHint failed.
+2023-08-09T14:53:35.752 INFO (pid:39674) -   Message: The request (id: 6, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:53:35.753 INFO (pid:39674) - [Error - 14:53:35.753] Sending request textDocument/inlayHint failed.
+2023-08-09T14:53:35.753 INFO (pid:39674) -   Message: The request (id: 7, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:53:35.754 INFO (pid:39674) - [Error - 14:53:35.754] Sending request textDocument/inlayHint failed.
+2023-08-09T14:53:35.754 INFO (pid:39674) -   Message: The request (id: 8, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:53:35.754 INFO (pid:39674) - [Error - 14:53:35.754] Sending request textDocument/inlayHint failed.
+2023-08-09T14:53:35.754 INFO (pid:39674) -   Message: The request (id: 9, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:53:35.754 INFO (pid:39674) - [Error - 14:53:35.754] Sending request textDocument/inlayHint failed.
+2023-08-09T14:53:35.754 INFO (pid:39674) -   Message: The request (id: 10, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:53:35.755 INFO (pid:39674) - [Error - 14:53:35.755] Sending request textDocument/inlayHint failed.
+2023-08-09T14:53:35.755 INFO (pid:39674) -   Message: The request (id: 11, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:54:51.488 WARN (pid:41373) - Could not find lombok.jar path.
+2023-08-09T14:54:51.506 INFO (pid:41373) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:54:51.612 INFO (pid:41373) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T14:54:57.304 INFO (pid:41373) - [Error - 14:54:57.304] Sending request textDocument/inlayHint failed.
+2023-08-09T14:54:57.304 INFO (pid:41373) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:54:57.305 INFO (pid:41373) - [Error - 14:54:57.305] Sending request textDocument/inlayHint failed.
+2023-08-09T14:54:57.305 INFO (pid:41373) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:54:57.305 INFO (pid:41373) - [Error - 14:54:57.305] Sending request textDocument/inlayHint failed.
+2023-08-09T14:54:57.305 INFO (pid:41373) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:54:57.305 INFO (pid:41373) - [Error - 14:54:57.305] Sending request textDocument/inlayHint failed.
+2023-08-09T14:54:57.305 INFO (pid:41373) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:54:57.305 INFO (pid:41373) - [Error - 14:54:57.305] Sending request textDocument/inlayHint failed.
+2023-08-09T14:54:57.305 INFO (pid:41373) -   Message: The request (id: 5, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:54:57.306 INFO (pid:41373) - [Error - 14:54:57.306] Sending request textDocument/inlayHint failed.
+2023-08-09T14:54:57.306 INFO (pid:41373) -   Message: The request (id: 6, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:54:57.306 INFO (pid:41373) - [Error - 14:54:57.306] Sending request textDocument/inlayHint failed.
+2023-08-09T14:54:57.306 INFO (pid:41373) -   Message: The request (id: 7, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:54:57.306 INFO (pid:41373) - [Error - 14:54:57.306] Sending request textDocument/inlayHint failed.
+2023-08-09T14:54:57.306 INFO (pid:41373) -   Message: The request (id: 8, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:54:57.306 INFO (pid:41373) - [Error - 14:54:57.306] Sending request textDocument/inlayHint failed.
+2023-08-09T14:54:57.306 INFO (pid:41373) -   Message: The request (id: 9, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:54:57.306 INFO (pid:41373) - [Error - 14:54:57.306] Sending request textDocument/inlayHint failed.
+2023-08-09T14:54:57.306 INFO (pid:41373) -   Message: The request (id: 10, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:54:57.306 INFO (pid:41373) - [Error - 14:54:57.306] Sending request textDocument/inlayHint failed.
+2023-08-09T14:54:57.306 INFO (pid:41373) -   Message: The request (id: 11, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:54:57.378 INFO (pid:41373) - [Error - 14:54:57.378] Sending request textDocument/inlayHint failed.
+2023-08-09T14:54:57.378 INFO (pid:41373) -   Message: The request (id: 12, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:54:57.530 INFO (pid:41373) - [Error - 14:54:57.530] Sending request textDocument/inlayHint failed.
+2023-08-09T14:54:57.531 INFO (pid:41373) -   Message: The request (id: 13, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:55:07.068 INFO (pid:41373) - [Error - 14:55:07.068] Sending request textDocument/documentHighlight failed.
+2023-08-09T14:55:07.068 INFO (pid:41373) -   Message: The request (id: 26, method: 'textDocument/documentHighlight') has been cancelled
+  Code: -32800 
+2023-08-09T14:57:04.899 WARN (pid:41492) - Could not find lombok.jar path.
+2023-08-09T14:57:04.917 INFO (pid:41492) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:57:05.023 INFO (pid:41492) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T14:57:10.324 INFO (pid:41492) - [Error - 14:57:10.324] Sending request textDocument/inlayHint failed.
+2023-08-09T14:57:10.325 INFO (pid:41492) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T14:59:44.416 WARN (pid:41597) - Could not find lombok.jar path.
+2023-08-09T14:59:44.434 INFO (pid:41597) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T14:59:44.539 INFO (pid:41597) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T15:08:45.951 WARN (pid:42042) - Could not find lombok.jar path.
+2023-08-09T15:08:45.969 INFO (pid:42042) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T15:08:46.072 INFO (pid:42042) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T15:08:51.554 INFO (pid:42042) - [Error - 15:08:51.554] Sending request textDocument/inlayHint failed.
+2023-08-09T15:08:51.554 INFO (pid:42042) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T15:08:51.555 INFO (pid:42042) - [Error - 15:08:51.555] Sending request textDocument/inlayHint failed.
+2023-08-09T15:08:51.555 INFO (pid:42042) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T15:08:51.557 INFO (pid:42042) - [Error - 15:08:51.557] Sending request textDocument/inlayHint failed.
+2023-08-09T15:08:51.557 INFO (pid:42042) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T15:09:44.762 WARN (pid:42122) - Could not find lombok.jar path.
+2023-08-09T15:09:44.781 INFO (pid:42122) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T15:09:44.883 INFO (pid:42122) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T15:10:48.938 WARN (pid:42211) - Could not find lombok.jar path.
+2023-08-09T15:10:48.956 INFO (pid:42211) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T15:10:49.060 INFO (pid:42211) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T15:13:39.899 WARN (pid:42299) - Could not find lombok.jar path.
+2023-08-09T15:13:39.917 INFO (pid:42299) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T15:13:40.019 INFO (pid:42299) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T17:18:20.658 WARN (pid:45067) - Could not find lombok.jar path.
+2023-08-09T17:18:20.676 INFO (pid:45067) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T17:18:20.776 INFO (pid:45067) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T17:18:26.205 INFO (pid:45067) - [Error - 17:18:26.205] Sending request textDocument/inlayHint failed.
+2023-08-09T17:18:26.205 INFO (pid:45067) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T17:18:26.213 INFO (pid:45067) - [Error - 17:18:26.213] Sending request textDocument/inlayHint failed.
+2023-08-09T17:18:26.213 INFO (pid:45067) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T17:18:26.214 INFO (pid:45067) - [Error - 17:18:26.214] Sending request textDocument/inlayHint failed.
+2023-08-09T17:18:26.214 INFO (pid:45067) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T17:18:26.214 INFO (pid:45067) - [Error - 17:18:26.214] Sending request textDocument/inlayHint failed.
+2023-08-09T17:18:26.214 INFO (pid:45067) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T17:19:02.841 WARN (pid:45249) - Could not find lombok.jar path.
+2023-08-09T17:19:02.859 INFO (pid:45249) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T17:19:02.959 INFO (pid:45249) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T17:19:08.286 INFO (pid:45249) - [Error - 17:19:08.286] Sending request textDocument/inlayHint failed.
+2023-08-09T17:19:08.286 INFO (pid:45249) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T17:19:08.483 INFO (pid:45249) - [Error - 17:19:08.483] Sending request textDocument/inlayHint failed.
+2023-08-09T17:19:08.483 INFO (pid:45249) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T17:22:16.074 WARN (pid:45630) - Could not find lombok.jar path.
+2023-08-09T17:22:16.092 INFO (pid:45630) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T17:22:16.193 INFO (pid:45630) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T17:22:19.782 INFO (pid:45630) - [Error - 17:22:19.782] Sending request textDocument/inlayHint failed.
+2023-08-09T17:22:19.782 INFO (pid:45630) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T17:22:20.076 INFO (pid:45630) - [Error - 17:22:20.076] Sending request textDocument/inlayHint failed.
+2023-08-09T17:22:20.076 INFO (pid:45630) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T17:22:20.316 INFO (pid:45630) - [Error - 17:22:20.316] Sending request textDocument/inlayHint failed.
+2023-08-09T17:22:20.316 INFO (pid:45630) -   Message: The request (id: 3, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T17:22:21.942 INFO (pid:45630) - [Error - 17:22:21.942] Sending request textDocument/inlayHint failed.
+2023-08-09T17:22:21.942 INFO (pid:45630) -   Message: The request (id: 4, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T17:30:33.320 WARN (pid:46306) - Could not find lombok.jar path.
+2023-08-09T17:30:33.338 INFO (pid:46306) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T17:30:33.438 INFO (pid:46306) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T17:33:04.881 WARN (pid:46539) - Could not find lombok.jar path.
+2023-08-09T17:33:04.899 INFO (pid:46539) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T17:33:05.000 INFO (pid:46539) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T17:47:40.689 WARN (pid:48341) - Could not find lombok.jar path.
+2023-08-09T17:47:40.710 INFO (pid:48341) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T17:47:40.831 INFO (pid:48341) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T17:47:45.189 INFO (pid:48341) - [Error - 17:47:45.189] Aug 9, 2023, 5:47:45 PM BadLocationException
+null
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.ListLineTracker.getLineOffset(ListLineTracker.java:206)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineOffset(AbstractLineTracker.java:252)
+	at org.eclipse.jface.text.AbstractDocument.getLineOffset(AbstractDocument.java:877)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOffset(SynchronizableDocument.java:323)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:85)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toOffset(JsonRpcHelpers.java:69)
+	at org.eclipse.jdt.ls.core.internal.handlers.InlayHintsHandler.inlayHint(InlayHintsHandler.java:78)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$54(JDTLanguageServer.java:1099)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:79)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:483)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+2023-08-09T17:53:13.020 WARN (pid:48967) - Could not find lombok.jar path.
+2023-08-09T17:53:13.038 INFO (pid:48967) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T17:53:13.145 INFO (pid:48967) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T20:58:07.854 WARN (pid:67809) - Could not find lombok.jar path.
+2023-08-09T20:58:07.874 INFO (pid:67809) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T20:58:07.977 INFO (pid:67809) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T20:58:12.975 INFO (pid:67809) - [Error - 20:58:12.975] Sending request textDocument/inlayHint failed.
+2023-08-09T20:58:12.975 INFO (pid:67809) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T21:02:00.635 WARN (pid:68068) - Could not find lombok.jar path.
+2023-08-09T21:02:00.653 INFO (pid:68068) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T21:02:00.753 INFO (pid:68068) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+
+2023-08-09T21:02:06.148 INFO (pid:68068) - [Error - 21:02:06.148] Sending request textDocument/inlayHint failed.
+2023-08-09T21:02:06.149 INFO (pid:68068) -   Message: The request (id: 1, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T21:02:06.150 INFO (pid:68068) - [Error - 21:02:06.150] Sending request textDocument/inlayHint failed.
+2023-08-09T21:02:06.150 INFO (pid:68068) -   Message: The request (id: 2, method: 'textDocument/inlayHint') has been cancelled
+  Code: -32800 
+2023-08-09T21:22:13.624 WARN (pid:69534) - Could not find lombok.jar path.
+2023-08-09T21:22:13.643 INFO (pid:69534) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T21:22:13.744 INFO (pid:69534) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T21:27:13.924 WARN (pid:69996) - Could not find lombok.jar path.
+2023-08-09T21:27:13.943 INFO (pid:69996) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T21:27:14.043 INFO (pid:69996) - WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.vector
+
+2023-08-09T21:28:52.330 WARN (pid:70266) - Could not find lombok.jar path.
+2023-08-09T21:28:52.348 INFO (pid:70266) - Starting Java server with: /usr/lib/jvm/java-17-openjdk/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED --add-opens java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -Dfile.encoding=UTF-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/atlas/.config/coc/extensions/coc-java-data -jar /home/atlas/.config/coc/extensions/node_modules/coc-java/server/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar -configuration /home/atlas/.config/coc/extensions/coc-java-data/1.14.1/config_linux -data /home/atlas/.config/coc/extensions/coc-java-data/jdt_ws
+2023-08-09T21:28:52.448 INFO (pid:70266) - WARNING: Using incubator modules: jdk.incubator.vector, jdk.incubator.foreign
+

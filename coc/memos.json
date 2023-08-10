@@ -1,0 +1,8 @@
+{
+  "coc-java|global": {
+    "java.neverShowImportFinishNotification": true
+  },
+  "coc-rust-analyzer|global": {
+    "release": "2023-08-07"
+  }
+}

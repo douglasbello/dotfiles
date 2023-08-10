@@ -1,0 +1,43 @@
+padding:
+  x: 0
+  y: 0
+
+window:
+  opacity: 0.80
+
+  padding:
+    x: 0
+    y: 0
+  class:
+    instance: Alacritty
+    general: Alacritty
+
+scrolling:
+  history: 10000
+  multiplier: 3
+
+selection:
+  save_to_clipboard: false
+
+font:
+  normal:
+    family: JetBrainsMono
+    style: Medium
+  bold:
+    family: JetBrainsMono
+    style: Bold
+  italic:
+    family: JetBrainsMono
+    style: MediumItalic
+  bold_italic:
+    family: JetBrainsMono
+    style: BoldItalic
+
+cursor:
+  style:
+    shape: Beam
+    blinking: Off
+    blink-interval: 750
+
+import:
+  - ~/.config/alacritty/catppuccin-mocha.yml

@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+/home/atlas/.config/coc/extensions/coc-java-data/jdt_ws/.metadata/.plugins/org.eclipse.jdt.core
+4255860385.index
+1369391634.index
+1597067313.index
+3842426239.index
+1865797976.index
